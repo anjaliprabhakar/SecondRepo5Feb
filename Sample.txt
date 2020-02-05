@@ -5,3 +5,5 @@ line 3
 Sample file appended
 added line 2 by anjali
 Rituja added a line!!!
+
+From hotfix
