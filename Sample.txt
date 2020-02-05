@@ -1,1 +1,2 @@
 Sample file create
+Sample file appended
