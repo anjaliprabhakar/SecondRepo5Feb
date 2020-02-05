@@ -1,4 +1,5 @@
 Sample file create
+<<<<<<< HEAD
 line 1
 line 2
 line 3
@@ -7,7 +8,6 @@ added line 2 by anjali
 Rituja added a line!!!
 
 From hotfix
-
+=======
 from develop
-
-Change2
+>>>>>>> develop
